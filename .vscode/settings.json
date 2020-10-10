@@ -1,0 +1,7 @@
+{
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "afterDelay"
+}
